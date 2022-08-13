@@ -25,3 +25,9 @@ Siéntete libre de añadir y jugar con los Themes que quieras, y hacer un PR si 
 ![classic theme](https://github.com/luisllamasbinaburo/DEMO-ESP32-PC-Resource-Monitor/blob/main/screenshots/classic_theme.jpg)
 
 ![modern theme](https://github.com/luisllamasbinaburo/DEMO-ESP32-PC-Resource-Monitor/blob/main/screenshots/modern-theme.jpg)
+
+### Referencias
+- https://github.com/openhardwaremonitor/openhardwaremonitor
+- https://stackoverflow.com/questions/56830434/c-sharp-get-total-usage-of-gpu-in-percentage
+- http://www.keyvan.ms/how-to-calculate-network-utilization-in-net
+- https://stackoverflow.com/questions/1195112/how-can-i-get-the-cpu-temperature
